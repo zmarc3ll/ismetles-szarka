@@ -1,4 +1,4 @@
-# [Név]
+# Zuber Macell
 
 
 ## Hogyan kezdj neki?

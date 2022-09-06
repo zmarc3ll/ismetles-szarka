@@ -1,0 +1,47 @@
+body{
+    color: aliceblue;
+    border-color: black;
+}
+p {
+    color: darkblue;
+}
+h2,a:hover,a{
+    color: crimson;
+}
+hr{
+    width: 70%;
+    align-self: center;
+}
+#fejlec{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#rendszertantablazat{
+    width: 400px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+#kep1{
+    height: 153px;
+    width: 230px;
+    border: 1px solid black;
+    
+}
+#kep2{
+    float: right;
+    width: 230px;
+    height: 153px;
+    border: 1px solid black;
+}
+#tablazat{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border:none;
+    padding: 6px;
+    
+    
+    
+}
