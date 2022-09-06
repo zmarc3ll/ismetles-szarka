@@ -5,8 +5,14 @@ body{
 p {
     color: darkblue;
 }
-h2,a:hover,a{
+a:hover,a{
     color: crimson;
+}
+.szarkah2{
+    color: crimson;
+}
+h2{
+    color: aliceblue;
 }
 hr{
     width: 70%;
@@ -39,9 +45,6 @@ hr{
     color: black;
     margin-left: auto;
     margin-right: auto;
-    border:none;
-    padding: 6px;
-    
-    
+    border: 0px;
     
 }
